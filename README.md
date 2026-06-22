@@ -144,7 +144,7 @@ July peak insight to boost other months.
 │   └── Pizza_Shop_Sales_Dashboard.xlsx
 │
 ├── 03_Images
-│   └── Dashboard_Screenshot.png
+│   └── Dashboard_Screenshot.png and pivot_tables images
 │
 └── README.md
 ```
